@@ -12,7 +12,7 @@ Clique em `Code` e depois em `Download zip`. Descompacte o arquivo e abra com su
 ### Terminal
 Em seguida abra o terminal e execute o comando `npm i` para instalar todas as dependências necessárias para execução do projeto.
 Para excutar o servido Node, insira o script `npm run server` e para executar o projeto web 
-`npm run web`.
+    `npm run web`.
 
 ### Youtube
 No site do Youtube, selecione um vídeo Shorts que você queira resumir o conteúdo. Copie a URL do vídeo e insira no campo de busca do site Shorts Summary. Pressione o botão para que seja iniciada a busca do vídeo, 
